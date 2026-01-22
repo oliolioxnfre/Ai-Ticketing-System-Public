@@ -1,4 +1,4 @@
-hey fam is oli
+This was a project for my AI class that I did with my partner Marcos Sanchez. It uses a various algorithms to map out tickets to skilled employees in a database. Below I listed a bunch of instructions on how to run the program and use the dashboard.
 
 install streamlit to use the dashboard 
     pip install streamlit pandas 
