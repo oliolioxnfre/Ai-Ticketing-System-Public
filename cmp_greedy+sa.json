@@ -1,0 +1,84 @@
+{
+  "run_id": "2025-12-08T00:37:17+00:00_greedy+sa",
+  "algorithm": {
+    "scheduler": "greedy+sa",
+    "triage": {
+      "method": "keywords"
+    },
+    "annealing": {
+      "alpha_sla": 100.0,
+      "beta_variance": 1.0,
+      "steps": 10000,
+      "T0": 1.0,
+      "cooling": 0.999,
+      "accepted_improving_moves": 277
+    }
+  },
+  "config": {
+    "slot_minutes": 15,
+    "time_policy": "finish_sla",
+    "random_seed": 1337
+  },
+  "datasets": {
+    "tickets_csv": "/Users/oliverking/Antigrav/Ai project/IntroToAIProject/tickets/tickets_hard.csv",
+    "helpers_csv": "/Users/oliverking/Antigrav/Ai project/IntroToAIProject/helpers/helpers_rare.csv",
+    "n_tickets": 220
+  },
+  "metrics_overall": {
+    "sla_breach_count": 25,
+    "sla_breach_rate": 0.11363636363636363,
+    "total_tardiness_minutes": 1650,
+    "workload_variance": 70.88888888888887
+  },
+  "metrics_by_helper": [
+    {
+      "helper_id": 10,
+      "tickets": 15
+    },
+    {
+      "helper_id": 12,
+      "tickets": 11
+    },
+    {
+      "helper_id": 5,
+      "tickets": 37
+    },
+    {
+      "helper_id": 2,
+      "tickets": 15
+    },
+    {
+      "helper_id": 9,
+      "tickets": 37
+    },
+    {
+      "helper_id": 3,
+      "tickets": 15
+    },
+    {
+      "helper_id": 7,
+      "tickets": 15
+    },
+    {
+      "helper_id": 11,
+      "tickets": 15
+    },
+    {
+      "helper_id": 6,
+      "tickets": 15
+    },
+    {
+      "helper_id": 1,
+      "tickets": 15
+    },
+    {
+      "helper_id": 8,
+      "tickets": 15
+    },
+    {
+      "helper_id": 4,
+      "tickets": 15
+    }
+  ],
+  "notes": "Run complete."
+}

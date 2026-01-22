@@ -1,0 +1,221 @@
+ticket_id,customer_id,text,true_category,priority,created_at,sla_hours,proc_minutes
+1,1001,printer paper jam,Printing,urgent,2025-12-01T12:51,3,120
+2,1002,cannot add campus printer,Printing,high,2025-12-01T14:04,2,90
+3,1003,cannot add campus printer,Printing,urgent,2025-12-01T10:34,2,15
+4,1004,vpn disconnects in lab,Network,high,2025-12-01T11:49,2,30
+5,1005,need software install permission,Software,medium,2025-12-01T09:05,2,60
+6,1006,internet down,Network,urgent,2025-12-01T12:43,2,60
+7,1007,can't configure email on phone,Email,urgent,2025-12-01T14:04,2,90
+8,1008,streaky prints low toner in lab,Printing,urgent,2025-12-01T12:11,3,15
+9,1009,streaky prints low toner,Printing,high,2025-12-01T13:09,1,60
+10,1010,setup duplex printing,Printing,medium,2025-12-01T09:47,3,60
+11,1011,streaky prints low toner in lab,Printing,urgent,2025-12-01T11:30,2,45
+12,1012,streaky prints low toner,Printing,medium,2025-12-01T13:21,2,60
+13,1013,printer paper jam,Printing,urgent,2025-12-01T14:23,1,30
+14,1014,login fails,Account,medium,2025-12-01T13:43,1,90
+15,1015,matlab license expired,Software,medium,2025-12-01T10:40,3,60
+16,1016,streaky prints low toner,Printing,urgent,2025-12-01T12:30,3,60
+17,1017,wifi keeps dropping in lab,Network,medium,2025-12-01T09:38,3,30
+18,1018,update stuck,Software,urgent,2025-12-01T09:31,3,60
+19,1019,vpn disconnects,Network,medium,2025-12-01T10:26,1,120
+20,1020,wifi keeps dropping,Network,urgent,2025-12-01T12:50,3,15
+21,1021,printer paper jam,Printing,medium,2025-12-01T14:17,2,15
+22,1022,vpn disconnects,Network,high,2025-12-01T12:53,3,15
+23,1023,printer paper jam in lab,Printing,urgent,2025-12-01T12:19,2,45
+24,1024,mfa code not received in lab,Account,medium,2025-12-01T11:04,2,30
+25,1025,internet down,Network,medium,2025-12-01T12:05,1,45
+26,1026,printer paper jam,Printing,high,2025-12-01T12:36,2,120
+27,1027,setup duplex printing in lab,Printing,high,2025-12-01T09:17,2,60
+28,1028,streaky prints low toner in lab,Printing,urgent,2025-12-01T11:18,1,45
+29,1029,monitor flickers in lab,Hardware,medium,2025-12-01T12:00,2,30
+30,1030,locked out after 2fa in lab,Account,urgent,2025-12-01T13:03,3,60
+31,1031,internet down,Network,urgent,2025-12-01T12:45,1,120
+32,1032,need software install permission in lab,Software,urgent,2025-12-01T10:02,3,60
+33,1033,cannot add campus printer in lab,Printing,medium,2025-12-01T13:50,3,60
+34,1034,vpn disconnects,Network,high,2025-12-01T10:58,3,60
+35,1035,internet down in lab,Network,medium,2025-12-01T11:39,2,45
+36,1036,internet down,Network,urgent,2025-12-01T12:57,2,30
+37,1037,monitor flickers in lab,Hardware,urgent,2025-12-01T14:47,2,120
+38,1038,mfa code not received in lab,Account,high,2025-12-01T12:25,3,90
+39,1039,projector hdmi no signal,Hardware,urgent,2025-12-01T10:52,1,15
+40,1040,mfa code not received in lab,Account,medium,2025-12-01T11:35,1,90
+41,1041,streaky prints low toner,Printing,urgent,2025-12-01T10:56,3,15
+42,1042,setup duplex printing,Printing,urgent,2025-12-01T09:57,2,60
+43,1043,wifi keeps dropping,Network,medium,2025-12-01T14:48,3,15
+44,1044,wifi keeps dropping,Network,urgent,2025-12-01T12:21,2,45
+45,1045,setup duplex printing,Printing,high,2025-12-01T12:37,1,30
+46,1046,update stuck,Software,urgent,2025-12-01T14:46,3,90
+47,1047,cannot connect to wireless,Network,urgent,2025-12-01T09:22,1,90
+48,1048,email quota exceeded,Email,medium,2025-12-01T14:26,3,60
+49,1049,setup duplex printing,Printing,medium,2025-12-01T09:47,1,30
+50,1050,cannot add campus printer,Printing,urgent,2025-12-01T11:01,3,30
+51,1051,internet down,Network,urgent,2025-12-01T10:08,1,60
+52,1052,wifi keeps dropping,Network,urgent,2025-12-01T10:26,3,60
+53,1053,streaky prints low toner in lab,Printing,medium,2025-12-01T11:28,2,60
+54,1054,setup duplex printing in lab,Printing,high,2025-12-01T14:59,2,60
+55,1055,cannot add campus printer,Printing,medium,2025-12-01T11:28,2,15
+56,1056,printer paper jam,Printing,urgent,2025-12-01T11:49,2,45
+57,1057,cannot add campus printer in lab,Printing,high,2025-12-01T13:38,2,15
+58,1058,internet down,Network,medium,2025-12-01T09:40,3,15
+59,1059,login fails,Account,urgent,2025-12-01T14:26,1,15
+60,1060,projector hdmi no signal,Hardware,high,2025-12-01T11:47,3,90
+61,1061,internet down in lab,Network,high,2025-12-01T12:09,1,120
+62,1062,cannot connect to wireless,Network,high,2025-12-01T10:50,3,15
+63,1063,printer paper jam in lab,Printing,medium,2025-12-01T10:56,2,90
+64,1064,wifi keeps dropping,Network,medium,2025-12-01T13:05,1,90
+65,1065,cannot connect to wireless in lab,Network,urgent,2025-12-01T09:36,3,75
+66,1066,wifi keeps dropping,Network,medium,2025-12-01T14:41,2,90
+67,1067,fan making loud noise,Hardware,high,2025-12-01T14:45,1,30
+68,1068,cannot add campus printer,Printing,urgent,2025-12-01T13:33,2,90
+69,1069,laptop keyboard not responding,Hardware,urgent,2025-12-01T09:30,3,60
+70,1070,mfa code not received,Account,urgent,2025-12-01T13:06,3,60
+71,1071,printer paper jam,Printing,urgent,2025-12-01T10:53,3,45
+72,1072,login fails,Account,high,2025-12-01T12:33,3,120
+73,1073,printer paper jam in lab,Printing,urgent,2025-12-01T10:43,2,60
+74,1074,password reset not working in lab,Account,high,2025-12-01T14:43,2,30
+75,1075,password reset not working,Account,urgent,2025-12-01T14:01,1,30
+76,1076,vpn disconnects,Network,urgent,2025-12-01T13:41,2,60
+77,1077,password reset not working,Account,high,2025-12-01T14:51,3,120
+78,1078,streaky prints low toner,Printing,medium,2025-12-01T14:16,1,30
+79,1079,streaky prints low toner,Printing,urgent,2025-12-01T10:01,1,15
+80,1080,wifi keeps dropping,Network,medium,2025-12-01T12:01,1,15
+81,1081,printer paper jam,Printing,medium,2025-12-01T10:02,3,120
+82,1082,cannot add campus printer in lab,Printing,high,2025-12-01T14:09,2,90
+83,1083,wifi keeps dropping in lab,Network,medium,2025-12-01T14:45,3,60
+84,1084,cannot connect to wireless in lab,Network,high,2025-12-01T09:10,1,30
+85,1085,internet down,Network,high,2025-12-01T14:42,1,120
+86,1086,projector hdmi no signal,Hardware,medium,2025-12-01T09:07,3,60
+87,1087,printer paper jam,Printing,medium,2025-12-01T09:18,2,30
+88,1088,cannot connect to wireless,Network,urgent,2025-12-01T10:21,3,120
+89,1089,laptop keyboard not responding,Hardware,medium,2025-12-01T13:30,3,60
+90,1090,vpn disconnects in lab,Network,urgent,2025-12-01T12:04,1,30
+91,1091,setup duplex printing in lab,Printing,high,2025-12-01T13:56,2,60
+92,1092,printer paper jam,Printing,medium,2025-12-01T14:43,3,15
+93,1093,internet down,Network,urgent,2025-12-01T13:30,2,75
+94,1094,matlab license expired,Software,urgent,2025-12-01T12:38,3,120
+95,1095,streaky prints low toner,Printing,urgent,2025-12-01T10:12,2,15
+96,1096,vpn disconnects,Network,urgent,2025-12-01T13:41,2,120
+97,1097,setup duplex printing,Printing,urgent,2025-12-01T13:06,3,15
+98,1098,streaky prints low toner in lab,Printing,urgent,2025-12-01T09:03,2,30
+99,1099,streaky prints low toner,Printing,high,2025-12-01T10:13,2,60
+100,1100,login fails in lab,Account,urgent,2025-12-01T10:37,3,45
+101,1101,app keeps crashing,Software,urgent,2025-12-01T12:02,3,60
+102,1102,setup duplex printing,Printing,high,2025-12-01T11:21,2,120
+103,1103,streaky prints low toner,Printing,medium,2025-12-01T10:51,2,120
+104,1104,printer paper jam in lab,Printing,medium,2025-12-01T09:29,2,30
+105,1105,setup duplex printing,Printing,medium,2025-12-01T09:02,3,45
+106,1106,internet down,Network,high,2025-12-01T10:48,3,90
+107,1107,cannot connect to wireless,Network,medium,2025-12-01T11:52,2,120
+108,1108,internet down,Network,high,2025-12-01T14:06,1,60
+109,1109,internet down,Network,medium,2025-12-01T11:40,1,60
+110,1110,streaky prints low toner in lab,Printing,medium,2025-12-01T10:19,2,90
+111,1111,internet down,Network,urgent,2025-12-01T13:35,2,120
+112,1112,setup duplex printing in lab,Printing,high,2025-12-01T14:16,3,60
+113,1113,attachments failing,Email,urgent,2025-12-01T13:41,3,60
+114,1114,setup duplex printing in lab,Printing,urgent,2025-12-01T09:04,3,45
+115,1115,streaky prints low toner,Printing,high,2025-12-01T10:56,2,90
+116,1116,email quota exceeded in lab,Email,urgent,2025-12-01T13:38,3,15
+117,1117,internet down,Network,urgent,2025-12-01T10:30,3,120
+118,1118,projector hdmi no signal,Hardware,high,2025-12-01T11:04,1,120
+119,1119,update stuck,Software,medium,2025-12-01T11:45,2,60
+120,1120,cannot connect to wireless,Network,medium,2025-12-01T11:59,3,120
+121,1121,vpn disconnects in lab,Network,high,2025-12-01T09:10,2,60
+122,1122,login fails,Account,high,2025-12-01T14:29,1,30
+123,1123,vpn disconnects,Network,medium,2025-12-01T11:16,3,60
+124,1124,can't configure email on phone,Email,medium,2025-12-01T11:07,1,75
+125,1125,vpn disconnects,Network,urgent,2025-12-01T10:47,2,60
+126,1126,streaky prints low toner,Printing,high,2025-12-01T10:11,2,120
+127,1127,locked out after 2fa,Account,urgent,2025-12-01T10:17,1,120
+128,1128,mfa code not received in lab,Account,urgent,2025-12-01T11:53,2,15
+129,1129,matlab license expired,Software,urgent,2025-12-01T10:43,2,90
+130,1130,locked out after 2fa,Account,medium,2025-12-01T14:57,3,15
+131,1131,password reset not working,Account,high,2025-12-01T10:01,2,15
+132,1132,need software install permission,Software,urgent,2025-12-01T10:15,1,60
+133,1133,login fails,Account,high,2025-12-01T09:39,3,60
+134,1134,matlab license expired in lab,Software,medium,2025-12-01T10:30,1,120
+135,1135,wifi keeps dropping,Network,high,2025-12-01T13:44,1,15
+136,1136,cannot connect to wireless,Network,high,2025-12-01T13:40,3,45
+137,1137,mfa code not received,Account,high,2025-12-01T13:36,2,120
+138,1138,cannot add campus printer,Printing,medium,2025-12-01T14:25,2,30
+139,1139,cannot connect to wireless,Network,urgent,2025-12-01T10:41,2,60
+140,1140,wifi keeps dropping,Network,high,2025-12-01T13:45,1,120
+141,1141,mfa code not received,Account,high,2025-12-01T09:00,2,60
+142,1142,mfa code not received in lab,Account,urgent,2025-12-01T14:22,2,120
+143,1143,projector hdmi no signal,Hardware,high,2025-12-01T14:46,2,45
+144,1144,internet down in lab,Network,urgent,2025-12-01T13:02,1,120
+145,1145,streaky prints low toner in lab,Printing,high,2025-12-01T13:30,1,60
+146,1146,streaky prints low toner,Printing,urgent,2025-12-01T10:18,2,60
+147,1147,printer paper jam,Printing,high,2025-12-01T12:05,3,90
+148,1148,wifi keeps dropping,Network,urgent,2025-12-01T14:39,2,30
+149,1149,cannot add campus printer in lab,Printing,urgent,2025-12-01T12:48,2,60
+150,1150,vpn disconnects in lab,Network,high,2025-12-01T10:06,1,90
+151,1151,setup duplex printing,Printing,medium,2025-12-01T11:09,2,90
+152,1152,streaky prints low toner,Printing,high,2025-12-01T13:38,1,15
+153,1153,matlab license expired,Software,medium,2025-12-01T13:12,2,45
+154,1154,internet down,Network,high,2025-12-01T12:46,2,60
+155,1155,cannot add campus printer,Printing,high,2025-12-01T11:11,2,90
+156,1156,vpn disconnects,Network,high,2025-12-01T13:57,3,120
+157,1157,wifi keeps dropping,Network,high,2025-12-01T12:14,1,30
+158,1158,printer paper jam in lab,Printing,high,2025-12-01T13:48,3,60
+159,1159,update stuck in lab,Software,high,2025-12-01T09:33,2,90
+160,1160,streaky prints low toner,Printing,urgent,2025-12-01T12:25,1,30
+161,1161,cannot connect to wireless,Network,medium,2025-12-01T10:00,2,90
+162,1162,wifi keeps dropping,Network,urgent,2025-12-01T10:50,1,15
+163,1163,setup duplex printing,Printing,urgent,2025-12-01T09:28,3,120
+164,1164,mfa code not received,Account,medium,2025-12-01T14:20,1,60
+165,1165,vpn disconnects,Network,urgent,2025-12-01T11:20,1,30
+166,1166,internet down,Network,high,2025-12-01T13:21,3,45
+167,1167,mfa code not received,Account,high,2025-12-01T11:11,2,45
+168,1168,internet down,Network,high,2025-12-01T14:36,3,15
+169,1169,locked out after 2fa,Account,urgent,2025-12-01T13:44,2,30
+170,1170,cannot connect to wireless,Network,medium,2025-12-01T11:45,1,75
+171,1171,vpn disconnects,Network,urgent,2025-12-01T14:03,1,120
+172,1172,printer paper jam in lab,Printing,medium,2025-12-01T14:27,1,90
+173,1173,cannot connect to wireless in lab,Network,urgent,2025-12-01T13:47,3,120
+174,1174,attachments failing,Email,medium,2025-12-01T13:33,3,60
+175,1175,cannot connect to wireless in lab,Network,medium,2025-12-01T09:46,1,90
+176,1176,cannot add campus printer,Printing,medium,2025-12-01T10:19,3,90
+177,1177,app keeps crashing,Software,high,2025-12-01T13:58,2,60
+178,1178,login fails,Account,medium,2025-12-01T10:49,2,90
+179,1179,matlab license expired,Software,urgent,2025-12-01T10:19,2,90
+180,1180,vpn disconnects,Network,high,2025-12-01T10:34,1,90
+181,1181,wifi keeps dropping,Network,urgent,2025-12-01T10:47,2,60
+182,1182,app keeps crashing in lab,Software,medium,2025-12-01T13:14,2,90
+183,1183,wifi keeps dropping in lab,Network,high,2025-12-01T13:00,3,45
+184,1184,attachments failing in lab,Email,medium,2025-12-01T14:06,1,120
+185,1185,app keeps crashing in lab,Software,high,2025-12-01T11:50,1,45
+186,1186,streaky prints low toner in lab,Printing,medium,2025-12-01T11:32,2,30
+187,1187,password reset not working,Account,high,2025-12-01T14:04,3,90
+188,1188,printer paper jam,Printing,medium,2025-12-01T14:56,3,45
+189,1189,streaky prints low toner,Printing,medium,2025-12-01T14:39,2,120
+190,1190,internet down in lab,Network,medium,2025-12-01T09:48,2,120
+191,1191,laptop keyboard not responding,Hardware,medium,2025-12-01T11:05,2,15
+192,1192,streaky prints low toner in lab,Printing,medium,2025-12-01T13:44,2,15
+193,1193,need software install permission,Software,medium,2025-12-01T09:07,3,30
+194,1194,need software install permission,Software,medium,2025-12-01T10:57,3,60
+195,1195,can't configure email on phone,Email,medium,2025-12-01T13:25,1,30
+196,1196,vpn disconnects in lab,Network,urgent,2025-12-01T14:04,3,45
+197,1197,login fails,Account,medium,2025-12-01T09:21,1,15
+198,1198,setup duplex printing in lab,Printing,urgent,2025-12-01T12:56,2,90
+199,1199,update stuck in lab,Software,medium,2025-12-01T11:05,2,15
+200,1200,locked out after 2fa in lab,Account,urgent,2025-12-01T10:52,2,90
+201,1201,wifi keeps dropping,Network,medium,2025-12-01T11:48,2,15
+202,1202,outlook not syncing,Email,medium,2025-12-01T12:30,3,120
+203,1203,cannot add campus printer in lab,Printing,high,2025-12-01T14:55,2,45
+204,1204,monitor flickers,Hardware,urgent,2025-12-01T14:27,3,90
+205,1205,wifi keeps dropping in lab,Network,medium,2025-12-01T11:09,3,60
+206,1206,cannot connect to wireless,Network,urgent,2025-12-01T14:50,1,60
+207,1207,internet down,Network,medium,2025-12-01T12:27,3,90
+208,1208,cannot connect to wireless,Network,high,2025-12-01T09:02,2,90
+209,1209,cannot add campus printer,Printing,high,2025-12-01T11:33,2,15
+210,1210,cannot connect to wireless,Network,medium,2025-12-01T14:17,2,60
+211,1211,cannot connect to wireless,Network,medium,2025-12-01T13:35,1,15
+212,1212,vpn disconnects,Network,medium,2025-12-01T11:50,2,90
+213,1213,cannot add campus printer,Printing,urgent,2025-12-01T11:43,3,30
+214,1214,can't configure email on phone,Email,medium,2025-12-01T09:00,1,60
+215,1215,internet down,Network,medium,2025-12-01T14:46,3,30
+216,1216,update stuck in lab,Software,urgent,2025-12-01T11:09,3,90
+217,1217,setup duplex printing,Printing,high,2025-12-01T12:05,2,60
+218,1218,printer paper jam,Printing,high,2025-12-01T13:15,3,90
+219,1219,printer paper jam,Printing,high,2025-12-01T12:49,3,45
+220,1220,can't configure email on phone in lab,Email,high,2025-12-01T11:46,3,30

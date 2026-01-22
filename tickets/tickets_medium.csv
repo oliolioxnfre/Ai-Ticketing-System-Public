@@ -1,0 +1,151 @@
+ticket_id,customer_id,text,true_category,priority,created_at,sla_hours,proc_minutes
+1,1001,need software install permission,Software,medium,2025-12-01T09:53,2,60
+2,1002,monitor flickers,Hardware,medium,2025-12-01T09:01,2,90
+3,1003,outlook not syncing,Email,medium,2025-12-01T13:02,2,60
+4,1004,email quota exceeded,Email,medium,2025-12-01T12:55,3,30
+5,1005,laptop keyboard not responding,Hardware,low,2025-12-01T14:29,4,15
+6,1006,vpn disconnects in lab,Network,medium,2025-12-01T09:31,4,30
+7,1007,login fails,Account,medium,2025-12-01T11:26,5,15
+8,1008,locked out after 2fa,Account,medium,2025-12-01T09:43,6,15
+9,1009,cannot connect to wireless,Network,low,2025-12-01T12:18,6,75
+10,1010,monitor flickers,Hardware,medium,2025-12-01T11:14,2,60
+11,1011,internet down in lab,Network,medium,2025-12-01T13:08,2,60
+12,1012,cannot connect to wireless,Network,medium,2025-12-01T10:12,5,15
+13,1013,password reset not working,Account,medium,2025-12-01T11:53,4,30
+14,1014,internet down,Network,medium,2025-12-01T12:21,4,30
+15,1015,setup duplex printing,Printing,low,2025-12-01T11:23,5,90
+16,1016,vpn disconnects,Network,high,2025-12-01T12:43,3,30
+17,1017,password reset not working,Account,medium,2025-12-01T14:23,5,30
+18,1018,laptop keyboard not responding,Hardware,medium,2025-12-01T12:30,2,60
+19,1019,update stuck in lab,Software,low,2025-12-01T13:41,4,30
+20,1020,internet down,Network,medium,2025-12-01T14:34,4,45
+21,1021,mfa code not received in lab,Account,low,2025-12-01T14:29,6,30
+22,1022,vpn disconnects,Network,medium,2025-12-01T11:50,5,60
+23,1023,locked out after 2fa,Account,medium,2025-12-01T09:46,2,60
+24,1024,wifi keeps dropping,Network,medium,2025-12-01T12:31,3,30
+25,1025,login fails,Account,medium,2025-12-01T13:15,4,60
+26,1026,need software install permission in lab,Software,medium,2025-12-01T11:07,6,30
+27,1027,password reset not working in lab,Account,high,2025-12-01T12:37,4,45
+28,1028,outlook not syncing in lab,Email,medium,2025-12-01T13:30,5,45
+29,1029,streaky prints low toner in lab,Printing,low,2025-12-01T14:49,3,30
+30,1030,printer paper jam,Printing,high,2025-12-01T10:59,2,75
+31,1031,cannot add campus printer,Printing,low,2025-12-01T09:57,4,30
+32,1032,cannot connect to wireless in lab,Network,low,2025-12-01T14:07,3,60
+33,1033,internet down,Network,medium,2025-12-01T11:04,4,30
+34,1034,app keeps crashing in lab,Software,medium,2025-12-01T10:39,5,60
+35,1035,fan making loud noise,Hardware,medium,2025-12-01T10:56,3,75
+36,1036,cannot connect to wireless in lab,Network,high,2025-12-01T11:29,4,30
+37,1037,projector hdmi no signal,Hardware,low,2025-12-01T10:39,3,15
+38,1038,password reset not working,Account,high,2025-12-01T13:13,4,30
+39,1039,vpn disconnects,Network,low,2025-12-01T09:27,2,30
+40,1040,wifi keeps dropping in lab,Network,high,2025-12-01T12:50,2,60
+41,1041,projector hdmi no signal in lab,Hardware,high,2025-12-01T14:34,3,15
+42,1042,app keeps crashing,Software,low,2025-12-01T12:46,5,15
+43,1043,cannot connect to wireless,Network,high,2025-12-01T10:03,4,15
+44,1044,cannot add campus printer in lab,Printing,low,2025-12-01T13:02,4,30
+45,1045,mfa code not received in lab,Account,low,2025-12-01T12:30,4,45
+46,1046,can't configure email on phone in lab,Email,medium,2025-12-01T09:31,2,75
+47,1047,internet down in lab,Network,low,2025-12-01T14:15,4,15
+48,1048,password reset not working,Account,high,2025-12-01T14:04,4,30
+49,1049,printer paper jam,Printing,medium,2025-12-01T12:58,3,45
+50,1050,can't configure email on phone in lab,Email,high,2025-12-01T11:35,3,45
+51,1051,can't configure email on phone,Email,low,2025-12-01T14:05,4,60
+52,1052,update stuck in lab,Software,medium,2025-12-01T09:17,3,45
+53,1053,matlab license expired,Software,high,2025-12-01T11:15,5,30
+54,1054,vpn disconnects in lab,Network,medium,2025-12-01T12:33,5,15
+55,1055,app keeps crashing in lab,Software,medium,2025-12-01T13:50,2,30
+56,1056,locked out after 2fa in lab,Account,medium,2025-12-01T10:18,3,30
+57,1057,fan making loud noise in lab,Hardware,high,2025-12-01T11:05,2,60
+58,1058,matlab license expired in lab,Software,medium,2025-12-01T10:58,2,15
+59,1059,laptop keyboard not responding in lab,Hardware,high,2025-12-01T14:07,3,15
+60,1060,cannot connect to wireless,Network,low,2025-12-01T14:40,3,15
+61,1061,vpn disconnects in lab,Network,low,2025-12-01T11:54,4,60
+62,1062,wifi keeps dropping,Network,high,2025-12-01T12:29,3,60
+63,1063,password reset not working,Account,medium,2025-12-01T13:40,3,60
+64,1064,vpn disconnects,Network,high,2025-12-01T09:46,6,15
+65,1065,internet down,Network,medium,2025-12-01T09:26,4,30
+66,1066,app keeps crashing,Software,high,2025-12-01T12:20,2,30
+67,1067,mfa code not received in lab,Account,medium,2025-12-01T09:46,3,15
+68,1068,need software install permission in lab,Software,low,2025-12-01T13:42,3,30
+69,1069,app keeps crashing,Software,low,2025-12-01T10:27,6,75
+70,1070,password reset not working,Account,medium,2025-12-01T10:41,2,30
+71,1071,internet down in lab,Network,medium,2025-12-01T14:25,5,15
+72,1072,vpn disconnects,Network,low,2025-12-01T14:14,3,60
+73,1073,can't configure email on phone,Email,medium,2025-12-01T10:20,2,30
+74,1074,password reset not working,Account,low,2025-12-01T14:44,3,30
+75,1075,update stuck,Software,medium,2025-12-01T14:21,6,30
+76,1076,update stuck,Software,high,2025-12-01T12:48,5,30
+77,1077,mfa code not received in lab,Account,medium,2025-12-01T14:16,5,45
+78,1078,monitor flickers,Hardware,low,2025-12-01T12:07,2,45
+79,1079,outlook not syncing,Email,high,2025-12-01T09:42,2,60
+80,1080,mfa code not received,Account,low,2025-12-01T10:09,6,90
+81,1081,monitor flickers in lab,Hardware,medium,2025-12-01T13:11,2,60
+82,1082,printer paper jam,Printing,medium,2025-12-01T14:12,3,30
+83,1083,vpn disconnects in lab,Network,low,2025-12-01T13:05,5,60
+84,1084,app keeps crashing in lab,Software,medium,2025-12-01T10:33,4,60
+85,1085,vpn disconnects,Network,low,2025-12-01T11:15,5,30
+86,1086,can't configure email on phone,Email,high,2025-12-01T13:56,4,15
+87,1087,fan making loud noise,Hardware,medium,2025-12-01T12:10,6,15
+88,1088,login fails,Account,low,2025-12-01T12:46,4,30
+89,1089,internet down,Network,high,2025-12-01T13:59,6,15
+90,1090,monitor flickers in lab,Hardware,medium,2025-12-01T14:20,3,15
+91,1091,mfa code not received in lab,Account,low,2025-12-01T14:34,3,30
+92,1092,wifi keeps dropping,Network,low,2025-12-01T13:33,4,15
+93,1093,login fails,Account,low,2025-12-01T13:03,3,30
+94,1094,wifi keeps dropping in lab,Network,high,2025-12-01T10:14,5,30
+95,1095,outlook not syncing,Email,medium,2025-12-01T13:47,2,45
+96,1096,update stuck in lab,Software,low,2025-12-01T09:00,6,60
+97,1097,vpn disconnects in lab,Network,low,2025-12-01T09:53,3,15
+98,1098,update stuck,Software,high,2025-12-01T10:29,3,30
+99,1099,password reset not working,Account,high,2025-12-01T12:43,5,30
+100,1100,monitor flickers in lab,Hardware,medium,2025-12-01T09:53,5,15
+101,1101,wifi keeps dropping in lab,Network,high,2025-12-01T13:43,4,15
+102,1102,locked out after 2fa in lab,Account,low,2025-12-01T13:19,4,60
+103,1103,vpn disconnects,Network,low,2025-12-01T11:47,3,30
+104,1104,fan making loud noise,Hardware,high,2025-12-01T13:31,5,30
+105,1105,internet down,Network,high,2025-12-01T12:20,3,15
+106,1106,matlab license expired in lab,Software,high,2025-12-01T09:54,3,60
+107,1107,printer paper jam in lab,Printing,high,2025-12-01T14:54,2,30
+108,1108,app keeps crashing in lab,Software,high,2025-12-01T13:33,2,15
+109,1109,vpn disconnects in lab,Network,high,2025-12-01T09:17,3,45
+110,1110,wifi keeps dropping,Network,low,2025-12-01T14:30,3,30
+111,1111,login fails in lab,Account,low,2025-12-01T11:24,2,30
+112,1112,update stuck,Software,high,2025-12-01T14:16,6,30
+113,1113,wifi keeps dropping,Network,low,2025-12-01T15:00,6,75
+114,1114,app keeps crashing in lab,Software,high,2025-12-01T09:00,2,30
+115,1115,wifi keeps dropping,Network,medium,2025-12-01T10:34,5,45
+116,1116,app keeps crashing,Software,low,2025-12-01T14:58,3,60
+117,1117,mfa code not received,Account,high,2025-12-01T14:56,2,15
+118,1118,can't configure email on phone,Email,medium,2025-12-01T09:44,5,30
+119,1119,projector hdmi no signal,Hardware,high,2025-12-01T13:39,4,15
+120,1120,wifi keeps dropping,Network,high,2025-12-01T11:47,3,30
+121,1121,vpn disconnects,Network,medium,2025-12-01T14:52,4,45
+122,1122,need software install permission in lab,Software,high,2025-12-01T15:00,3,30
+123,1123,internet down in lab,Network,low,2025-12-01T11:47,4,30
+124,1124,locked out after 2fa,Account,medium,2025-12-01T10:15,2,15
+125,1125,matlab license expired in lab,Software,medium,2025-12-01T12:18,2,45
+126,1126,vpn disconnects,Network,medium,2025-12-01T14:23,5,45
+127,1127,password reset not working,Account,high,2025-12-01T12:40,5,30
+128,1128,need software install permission,Software,low,2025-12-01T14:28,6,45
+129,1129,mfa code not received in lab,Account,high,2025-12-01T12:24,2,30
+130,1130,update stuck,Software,medium,2025-12-01T14:18,5,30
+131,1131,matlab license expired,Software,low,2025-12-01T13:10,4,30
+132,1132,internet down in lab,Network,medium,2025-12-01T13:54,3,60
+133,1133,app keeps crashing,Software,low,2025-12-01T12:53,4,45
+134,1134,setup duplex printing,Printing,medium,2025-12-01T11:09,2,30
+135,1135,mfa code not received,Account,medium,2025-12-01T14:45,5,45
+136,1136,need software install permission,Software,medium,2025-12-01T12:20,5,15
+137,1137,vpn disconnects,Network,high,2025-12-01T13:47,2,30
+138,1138,cannot connect to wireless,Network,high,2025-12-01T13:40,5,30
+139,1139,internet down,Network,medium,2025-12-01T14:51,3,45
+140,1140,setup duplex printing in lab,Printing,medium,2025-12-01T11:34,4,30
+141,1141,login fails in lab,Account,medium,2025-12-01T11:35,2,45
+142,1142,internet down,Network,high,2025-12-01T09:07,3,60
+143,1143,wifi keeps dropping,Network,low,2025-12-01T10:59,4,15
+144,1144,can't configure email on phone,Email,high,2025-12-01T10:25,3,30
+145,1145,projector hdmi no signal in lab,Hardware,low,2025-12-01T14:54,2,60
+146,1146,matlab license expired in lab,Software,low,2025-12-01T10:59,2,45
+147,1147,locked out after 2fa,Account,medium,2025-12-01T11:06,5,90
+148,1148,vpn disconnects,Network,high,2025-12-01T12:59,2,60
+149,1149,update stuck,Software,low,2025-12-01T14:46,4,30
+150,1150,wifi keeps dropping,Network,high,2025-12-01T14:49,2,30

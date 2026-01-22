@@ -1,0 +1,43 @@
+{
+  "dataset": {
+    "helpers_csv": "helpers_rare.csv",
+    "tickets_csv": "tickets_hard.csv",
+    "slot_minutes": 15,
+    "time_policy": "finish_sla"
+  },
+  "sa_params": {
+    "alpha_sla": 100.0,
+    "beta_variance": 1.0,
+    "steps": 10000,
+    "T0": 1.0,
+    "cooling": 0.999
+  },
+  "random_trials": 10,
+  "results": {
+    "random_mean": {
+      "sla_breach_rate": 0.15454545454545454,
+      "sla_breach_rate_std": 0.0,
+      "total_tardiness_minutes": 1935.0,
+      "total_tardiness_minutes_std": 0.0,
+      "workload_variance": 124.38888888888889,
+      "workload_variance_std": 0.0,
+      "max_helper_load": 40.0,
+      "max_helper_load_std": 0.0
+    },
+    "greedy": {
+      "algo": "greedy",
+      "sla_breach_rate": 0.16363636363636364,
+      "total_tardiness_minutes": 1695,
+      "workload_variance": 72.72222222222223,
+      "max_helper_load": 37
+    },
+    "greedy+sa": {
+      "algo": "greedy+sa",
+      "sla_breach_rate": 0.11363636363636363,
+      "total_tardiness_minutes": 1650,
+      "workload_variance": 70.88888888888887,
+      "max_helper_load": 37
+    }
+  },
+  "notes": "All methods share the same constraints. Random uses qualified helpers uniformly. Seeds varied across random trials."
+}

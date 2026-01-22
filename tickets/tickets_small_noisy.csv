@@ -1,0 +1,51 @@
+ticket_id,customer_id,text,true_category,priority,created_at,sla_hours,proc_minutes
+1,1001,cannot connect to wireless,,high,2025-12-01T09:37,5,30
+2,1002,passwrod resest not working,,low,2025-12-01T10:49,6,15
+3,1003,cannot add campus prnter in lab,,high,2025-12-01T09:46,7,15
+4,1004,outlok  not  syncing,,high,2025-12-01T14:22,4,30
+5,1005,fan making loud noise in lab,Hardware,low,2025-12-01T10:53,8,15
+6,1006,update stuck in lab,Software,high,2025-12-01T10:00,6,15
+7,1007,vpn disconnects in lab,Network,high,2025-12-01T13:52,8,30
+8,1008,passwrod resest not working,Account,high,2025-12-01T09:32,6,15
+9,1009,streaky  prints  low  tonnr,Software,medium,2025-12-01T13:32,8,15
+10,1010,can't configure emial on phone,,low,2025-12-01T11:07,7,30
+11,1011,projector hdmi no signal,Hardware,high,2025-12-01T11:55,4,15
+12,1012,matlab license expired in lab,Software,low,2025-12-01T12:34,6,30
+13,1013,cannot connect to wireless,Network,low,2025-12-01T14:42,5,30
+14,1014,loggin fails,,medium,2025-12-01T13:56,6,30
+15,1015,setup duplex printing,,low,2025-12-01T14:40,4,15
+16,1016,can't  configure  emial  on  phone  in  lab,,high,2025-12-01T12:17,6,15
+17,1017,fan making loud noise,Hardware,low,2025-12-01T14:12,4,30
+18,1018,need software install permission,Software,high,2025-12-01T10:06,4,30
+19,1019,cannot  connect  to  wirless,Network,low,2025-12-01T13:14,7,15
+20,1020,mfa code not received,Account,medium,2025-12-01T10:10,7,15
+21,1021,setup duplex printing,Printing,low,2025-12-01T12:14,7,30
+22,1022,emial quota exceeded in lab,Software,low,2025-12-01T14:37,4,15
+23,1023,monitor flickers in lab,,low,2025-12-01T09:02,7,15
+24,1024,app  keeps  crashing,Software,low,2025-12-01T11:43,8,30
+25,1025,cannot connect to wirless,Network,low,2025-12-01T12:21,7,15
+26,1026,passwrod  resest  not  working  in  lab,,medium,2025-12-01T10:46,7,30
+27,1027,setup  duplex  printing  pls  help  asap,,low,2025-12-01T09:52,4,15
+28,1028,outlok  not  syncing,,low,2025-12-01T14:14,8,15
+29,1029,fan  making  loud  noise  in  lab  pls  help  asap,Hardware,medium,2025-12-01T11:09,5,15
+30,1030,matlab license expired in lab,,medium,2025-12-01T13:09,7,30
+31,1031,intarnet  down  in  lab,Network,high,2025-12-01T09:52,7,30
+32,1032,mfa code not received,Account,high,2025-12-01T10:22,6,30
+33,1033,setup duplex printing in lab,Printing,low,2025-12-01T13:38,5,15
+34,1034,attachments failing,,medium,2025-12-01T10:25,4,30
+35,1035,projetor  hdmi  no  signal,Hardware,low,2025-12-01T14:13,8,15
+36,1036,need  software  install  permission  in  lab,,medium,2025-12-01T13:12,7,15
+37,1037,intarnet down,,high,2025-12-01T10:39,4,15
+38,1038,loggin fails,Account,low,2025-12-01T12:06,7,30
+39,1039,streaky prints low tonnr,,low,2025-12-01T11:52,4,15
+40,1040,outlok not syncing,Email,medium,2025-12-01T14:34,8,30
+41,1041,fan making loud noise,,medium,2025-12-01T10:42,4,15
+42,1042,app  keeps  crashing  in  lab  pls  help  asap,Software,medium,2025-12-01T12:22,7,15
+43,1043,vpn  disconnects  in  lab  pls  help  asap,,low,2025-12-01T10:05,4,30
+44,1044,mfa code not received,,high,2025-12-01T10:14,8,15
+45,1045,streaky prints low toner,Printing,low,2025-12-01T10:07,6,30
+46,1046,emial  quota  exceeded,Email,low,2025-12-01T10:39,4,15
+47,1047,moniter flickers in lab,Hardware,high,2025-12-01T11:03,6,15
+48,1048,update stuck,Software,high,2025-12-01T09:31,6,30
+49,1049,cannot connect to wirless,,low,2025-12-01T13:16,7,30
+50,1050,passwrod resest not working,Account,high,2025-12-01T10:33,8,15
